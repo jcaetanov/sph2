@@ -178,6 +178,18 @@ Este tipo de benchmark é essencial para o desenvolvimento de simuladores mais c
 
 ---
 
-## 9. Execução
 
-### Compilação
+---
+
+## 9. Autor
+
+João Caetano  
+https://github.com/jcaetanov
+
+---
+
+## 10. Referências
+
+- Monaghan, J. J. (1992). Smoothed Particle Hydrodynamics  
+- Toro, E. F. (Riemann Solvers and Numerical Methods for Fluid Dynamics)
+- Literatura clássica em shock tube problems
