@@ -395,6 +395,6 @@ def update(frame):
 ani = FuncAnimation(fig, update, frames=frames_max, interval=40, blit=True)
 
 writer = PillowWriter(fps=24)
-ani.save("black_hole_effect_3d_spyder0034.gif", writer=writer)
+ani.save("black_hole_birth.gif", writer=writer)
 
-print("GIF gerado: black_hole_effect_3d_spyder0034.gif")
+print("GIF gerado: black_hole_birth.gif")
